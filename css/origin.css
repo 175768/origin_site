@@ -1,0 +1,11 @@
+body {
+    background-color: wheat;
+}
+header {
+    background-color: cyan;
+    margin: 0 auto;
+}
+
+.contents {
+    background-color: rgba(222, 145, 135, 0.877);
+}
